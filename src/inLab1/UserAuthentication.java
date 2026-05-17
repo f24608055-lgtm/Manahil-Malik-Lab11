@@ -2,7 +2,7 @@ package inLab1;
 
 public class UserAuthentication {
 	public void login() {
-        System.out.println("Manahil logged in");
+        System.out.println("Login successful - Manahil ");
     }
 }
 
