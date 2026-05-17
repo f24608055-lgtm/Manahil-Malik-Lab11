@@ -1,8 +1,8 @@
 package inLab1;
 
 public class UserAuthentication {
-	public void login() {
-        System.out.println("Login successful - Manahil ");
+    public void login() {
+        System.out.println("Login successful - Manahil");
+        System.out.println("Login successful - Student B");
     }
 }
-
